@@ -1,0 +1,10 @@
+{
+  "name": "dotscad-jscad",
+  "version": "0.1.0",
+  "description": "Partial JSCAD port of dotSCAD",
+  "main": "jscad/arc.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@jscad/modeling": "^2.17.1"
+  }
+}
