@@ -383,4 +383,6 @@ These examples incubate dotSCAD and dotSCAD refactors these examples. See [examp
 [**pp/pp_poisson2**(size, r[, start, k, seed])](https://openhome.cc/eGossip/OpenSCAD/lib3x-pp_poisson2.html) | perform poisson sampling over a rectangle area.
 [**pp/pp_poisson3**(size, r[, start, k, seed])](https://openhome.cc/eGossip/OpenSCAD/lib3x-pp_poisson3.html) | perform poisson sampling over a cube space.
 
-----
+## JSCAD Port
+A partial port to [JSCAD](https://openjscad.xyz/).
+See `jscad/arc.js`, `jscad/shapeArc.js`, and `jscad/angleBetween.js` for examples converting OpenSCAD modules to the JSCAD modeling API.
